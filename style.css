@@ -1,0 +1,31 @@
+*{
+    background-image: url(./silhouette-two-people-sitting-bench-tree-during-sunset_181624-19008.avif);
+    background-size: cover;
+    background-color: antiquewhite;
+    word-spacing: 44px;
+    line-height: 44px;
+}
+
+.Ahmad{
+   
+    background-color: brown;
+    color: blueviolet;
+    letter-spacing: normal;
+    font-family: cursive;
+    font-size: 66pt;
+    font-weight: lighter;
+    font-style:italic ;
+    border-right: 22px outset green;
+    border-left: 22px outset green;
+    border-top: 22px outset red;
+    border-bottom: 22px outset blue;
+    border-radius: 220px;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    text-overflow: clip;
+    text-decoration: line-through;
+    text-transform: capitalize;
+
+
+}
